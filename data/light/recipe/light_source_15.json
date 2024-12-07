@@ -1,0 +1,26 @@
+{
+    "type": "crafting_shaped",
+    "category": "misc",
+    "pattern": [
+        "GGG",
+        "GLG",
+        "GGG"
+    ],
+    "key": {
+        "G": {
+            "item": "minecraft:glass"
+        },
+        "L": {
+            "item": "minecraft:lantern"
+        }
+    },
+    "result": {
+        "id": "minecraft:light",
+        "count": 8,
+        "components": {
+            "block_state": {
+                "level": "15"
+            }
+        }
+    }
+}

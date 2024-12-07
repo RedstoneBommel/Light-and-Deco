@@ -1,0 +1,9 @@
+{
+    "pack": {
+        "pack_format": 48,
+        "description": {
+            "text": "Decorate your world with invisible item frames and illuminate it with light source blocks.",
+            "color": "#0000FF"
+        }
+    }
+}
