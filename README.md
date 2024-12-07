@@ -3,13 +3,14 @@ Minecraft data pack with custom crafting recipes to create invisible item frames
 
 With this datapack it is possible to create invisible item frames. This applies to both the glowing item frames and the normal ones.
 
-Crafting Recipe Invisible Item Frame:
+Crafting Recipe Invisible Glow Item Frame:
 ![2024-12-07_11 45 29](https://github.com/user-attachments/assets/d7640ad7-0df2-4836-9c5c-055c496edccd)
 
-Crafting Recipe Invisible Glowing Item Frame:
+Crafting Recipe Invisible Item Frame:
 ![2024-12-07_11 45 23](https://github.com/user-attachments/assets/11ce7987-45ff-4442-a05e-76c2c4cc90a0)
 
-Crafting Recipe:
+Left - (above with the new invisible one, below the old one that you can see),
+Right - (above with the new invisible glowing one, below the old one that you can see):
 ![2024-12-07_11 48 26](https://github.com/user-attachments/assets/98b5bbeb-242f-4801-ad70-d649cd0d02d1)
 
 It is also possible to create light sources with this datapack that emit a light level of 15 but are completely invisible, allowing you to illuminate the world better without having annoying torches everywhere.
