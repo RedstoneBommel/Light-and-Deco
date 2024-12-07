@@ -9,7 +9,7 @@ Crafting Recipe Invisible Glow Item Frame:
 Crafting Recipe Invisible Item Frame:
 ![2024-12-07_11 45 23](https://github.com/user-attachments/assets/11ce7987-45ff-4442-a05e-76c2c4cc90a0)
 
-Left - (above with the new invisible one, below the old one that you can see),
+Left - (above with the new invisible one, below the old one that you can see), </br>
 Right - (above with the new invisible glowing one, below the old one that you can see):
 ![2024-12-07_11 48 26](https://github.com/user-attachments/assets/98b5bbeb-242f-4801-ad70-d649cd0d02d1)
 
